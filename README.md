@@ -42,7 +42,7 @@ with your own OpenWeather API key.
 
 ## 🌐 Live Demo
 
-(After enabling GitHub Pages, your live link will appear here)
+(file:///C:/Users/nikit/Downloads/advanced-weather-app/index.html)
 
 ------------------------------------------------------------------------
 
